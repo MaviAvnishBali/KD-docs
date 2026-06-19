@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Generated output
+_site/
+_book/
+site/
+
+# Node (if using any doc generators)
+node_modules/
