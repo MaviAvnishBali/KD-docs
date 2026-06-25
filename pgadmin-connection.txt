@@ -1,0 +1,21 @@
+pgAdmin 4 — Kila Darbar Database Connection
+============================================
+
+Right-click Servers → Register → Server
+
+GENERAL TAB
+  Name: Kila Darbar
+
+CONNECTION TAB
+  Host:                 localhost
+  Port:                 5434
+  Maintenance database: kiladarbar
+  Username:             kiladarbar
+  Password:             kiladarbar123
+
+Tables are under:
+  Kila Darbar > Databases > kiladarbar > Schemas > public > Tables
+
+Admin login credentials (after running admin-setup.sql):
+  Email:    admin@kiladarbar.com
+  Password: Admin@123
